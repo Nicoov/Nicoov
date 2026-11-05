@@ -1,15 +1,58 @@
-<h2>Hi, i'm Nicolas 😁✌ </h2>
+<h2>Hi, I'm Nicolás 😁✌</h2>
 
-<h3 align="center">Front end Jr</h3>
+<h3 align="center">Software Developer · Frontend / Full Stack</h3>
 
-<h3 align="left">A little more about me 🧐</h3>
+### A little more about me 🧐
 
-<a>I'm computer engineer passionate about front-end development, I live in chile in the atacama region more specifically in the city of Copiapo. I found a love for development since I did my internship, I am always learning, since I do not consider myself the best programmer. My goal is to expand my knowledge and grow professionally. When I'm not studying or programming I like to be playing videogames with my friends on discord.</a>
+I'm a Computer Engineer from **Copiapó, Atacama (Chile)** 🇨🇱, focused on **Frontend** with **Full Stack** experience in **React, React Native, Node.js, AWS and ASP.NET Core**.
 
-<h3 align="left">Connect with me:</h3>
+I build scalable interfaces, optimize web performance and integrate REST APIs and serverless architectures. I've led development teams, maintained production systems and use AI tools (Claude Code, Codex, ChatGPT) to speed up development, refactoring and problem solving.
+
+I'm curious, self-taught and results-oriented — always learning and looking for challenges where I can make a real impact. When I'm not coding, you'll find me training hard in **CrossFit** and **HYROX** 🏋️‍♂️, or playing videogames with my friends on Discord 🎮.
+
+### 💼 Experience
+
+- **Software Developer** @ Sistemas Activos CL *(Apr 2026 – Sep 2026)* — Healthcare planning systems for Primary Care (APS) with ASP.NET Core, Razor Pages and EF Core. Migrated authentication from local BCrypt validation to an external REST service with structured logging and transactional rollback.
+- **Software / Frontend Developer** @ Symbiose *(May 2023 – Oct 2025)* — Led a team of 4 devs on a tourism project. Built a data query system for Liberty Seguros that cut data access times by **30%**, serverless internal tools on AWS Lambda, and improved TTI/LCP by **~20%**.
+- **Software Developer Jr** @ Westphal Soluciones Tecnológicas *(Jan 2021 – Jan 2022)* — Web and mobile features for Tenis'Up (React, React Native, Expo, Firebase), reaching ~485 active users.
+
+### 🚀 Featured projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Gym Tracker](https://gym-tracker-seven-navy.vercel.app/) | Class plans, attendance and personal records (RM) with progress dashboard, charts and LB/KG converter | Next.js · TypeScript · Tailwind · Supabase |
+| [Tenis Up](https://www.tenis-up.cl/) | Find tennis opponents by region and schedule matches | React · React Native · Expo · Firebase |
+| [My Animelist](https://animelistweb.vercel.app/) | Seasonal anime list, detail view and favorites using a public API | React · JavaScript |
+
+### 🛠️ Languages and Tools
+
+**Frontend**
+
 <p align="left">
-<a href="https://linkedin.com/in/nicolas-ignacio-diaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-ignacio-diaz" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,astro,nextjs,tailwind,sass,html,css" alt="Frontend" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+**Backend & Data**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,aws,mongodb,firebase,supabase" alt="Backend and data" />
+</p>
+
+**Testing, DevOps & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vitest,jest,jenkins,git,gitlab,github,vscode" alt="Testing and tools" />
+</p>
+
+Also: React Native · Expo · SQL Server · Entity Framework Core · React Testing Library · Scrum · Kanban · Gitflow
+
+### 🎓 Education
+
+- **Computer Engineering** — Universidad Tecnológica INACAP (2021)
+- **QA Engineer Bootcamp** — TripleTen (2024): test design, web/mobile/API testing, databases and test automation
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/nicolas-ignacio-diaz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
